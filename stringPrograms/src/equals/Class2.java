@@ -12,5 +12,5 @@ public class Class2
 		System.out.println(s1.equals(s4));//false because content is not same  
 		} 
 	// akashh 1
-
+     //akash2
 }
